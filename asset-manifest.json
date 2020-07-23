@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/gbf-gacha/static/css/main.5f361e03.chunk.css",
+    "main.js": "/gbf-gacha/static/js/main.8e660deb.chunk.js",
+    "main.js.map": "/gbf-gacha/static/js/main.8e660deb.chunk.js.map",
+    "runtime-main.js": "/gbf-gacha/static/js/runtime-main.a81446d0.js",
+    "runtime-main.js.map": "/gbf-gacha/static/js/runtime-main.a81446d0.js.map",
+    "static/js/2.931cdd8a.chunk.js": "/gbf-gacha/static/js/2.931cdd8a.chunk.js",
+    "static/js/2.931cdd8a.chunk.js.map": "/gbf-gacha/static/js/2.931cdd8a.chunk.js.map",
+    "index.html": "/gbf-gacha/index.html",
+    "precache-manifest.daa8deb3ddc94ac007740df1b342fca5.js": "/gbf-gacha/precache-manifest.daa8deb3ddc94ac007740df1b342fca5.js",
+    "service-worker.js": "/gbf-gacha/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/gbf-gacha/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.931cdd8a.chunk.js.LICENSE.txt": "/gbf-gacha/static/js/2.931cdd8a.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/gbf-gacha/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a81446d0.js",
+    "static/js/2.931cdd8a.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.8e660deb.chunk.js"
+  ]
+}
